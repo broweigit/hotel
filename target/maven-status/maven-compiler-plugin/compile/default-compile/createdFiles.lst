@@ -1,0 +1,5 @@
+server\aop\NonFunctionalAop.class
+server\config\SpringMvcSupport.class
+server\config\SpringMvcConfig.class
+server\config\ServletContainerInitConfig.class
+server\controller\UserRegController.class
